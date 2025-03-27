@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "henrystrecker.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Henry Strecker",
+    "section": "",
+    "text": "This is a preview of what is yet to come. Here I will be posting projects I have worked on over the years, ranging from personal projects, class projects, and work projects."
+  },
+  {
+    "objectID": "lecture.html",
+    "href": "lecture.html",
+    "title": "Guest Lecture",
+    "section": "",
+    "text": "Background\nIn the Fall of 2024, I was a Teaching Assistant for Environmental Studies 40: Critical Thinking and Evidence-Based Reasoning for the Environment at UC Santa Barbara. The course itself was aimed at equipping new college students with a wide array of skills that could be leveraged throughout their time at university and beyond as they navigate coursework, projects, and research.\nI was provided the opportunity to design and present a guest lecture about work I had been doing as a graduate student, which I was truly excited about. My goal for this lecture was to provide students with a basic introduction to data science concepts using an example pulled from environmental applications. This felt feasible given the scope of the hour long class period I was allotted and knowing that some students may be completely unfamiliar with the topic. I decided that I would use a simplified example of some data processing that I had finished the summer prior for my Masters Group Project, which was centered around assessing power outage risk across the United States. I presented to about 100 students on October 24th, 2024.\n\n\nSlide Deck"
+  },
+  {
+    "objectID": "lecture.html#background",
+    "href": "lecture.html#background",
+    "title": "Guest Lecture",
+    "section": "",
+    "text": "In the Fall of 2024, I was a Teaching Assistant for Environmental Studies 40: Critical Thinking and Evidence-Based Reasoning for the Environment at UC Santa Barbara. I was given the opportunity to design and present a guest lecture about my work as a graduate student. For the scope of the class, I decided that providing students with a basic introduction to data science concepts with some applications in the environmental field would be the most worthwhile. Below is the presentation in its entirety, using the example of power outage in the United States to lead students through a simplified example that introduces some key concepts."
   }
 ]

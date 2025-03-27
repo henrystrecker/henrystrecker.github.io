@@ -1,0 +1,15 @@
+---
+title: "Guest Lecture"
+editor: source
+toc: false
+---
+
+### Background
+
+In the Fall of 2024, I was a Teaching Assistant for Environmental Studies 40: *Critical Thinking and Evidence-Based Reasoning for the Environment* at UC Santa Barbara. The course itself was aimed at equipping new college students with a wide array of skills that could be leveraged throughout their time at university and beyond as they navigate coursework, projects, and research. 
+
+I was provided the opportunity to design and present a guest lecture about work I had been doing as a graduate student, which I was truly excited about. My goal for this lecture was to provide students with a basic introduction to data science concepts using an example pulled from environmental applications. This felt feasible given the scope of the hour long class period I was allotted and knowing that some students may be completely unfamiliar with the topic. I decided that I would use a simplified example of some data processing that I had finished the summer prior for my **Masters Group Project**, which was centered around assessing power outage risk across the United States. I presented to about 100 students on October 24th, 2024. 
+
+### Slide Deck
+
+<iframe src="media/guest_lecture.pdf" width="100%" height="650px" style="border: 2px solid #ddd; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); border-radius: 10px;"> </iframe>

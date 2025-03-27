@@ -1,7 +1,24 @@
 ---
-title: "henrystrecker.github.io"
+title: "Henry Strecker"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: solana
+  image-shape: rounded
+  image-width: 16em
+  links:
+    - icon: bi-file-earmark-text-fill
+      text: Resume
+      href: media/resume_temp.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/henry-strecker-ab71a1239/
+    - icon: github
+      text: GitHub
+      href: https://github.com/henrystrecker
+    - icon: envelope-fill
+      text: Email
+      href: mailto:henrystrecker@bren.ucsb.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is a preview of what is yet to come. Here I will be posting projects I have worked on over the years, ranging from personal projects, class projects, and work projects.
