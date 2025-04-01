@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "nitrate.html",
+    "href": "nitrate.html",
+    "title": "California Nitrate Website",
+    "section": "",
+    "text": "Background\n\n\nIn the Fall of 2022 I took a course about water supply and demand, and decided to explore the concept of nitrate pollution as a project for the honors program. What came out of it was this dashboard that details nitrate pollution in groundwater wells throughout California. This data come from the United States Geological Survey, and was last updated in October 2022. The website was developed in python primarily using  dash plotly.\n\n  External link to site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Henry Strecker",
+    "section": "",
+    "text": "This site is currently under construction! Check back in future weeks as more of my work is added to this site."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,11 +21,11 @@
     "text": "About this site"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Henry Strecker",
+    "objectID": "africa_electric.html",
+    "href": "africa_electric.html",
+    "title": "Low-Carbon Electricity for Southern Africa",
     "section": "",
-    "text": "This is a preview of what is yet to come. Here I will be posting projects I have worked on over the years, ranging from personal projects, class projects, and work projects."
+    "text": "Background\n\n\nIn the Winter of 2023 I was enrolled in a course at UCSB about energy and the environment. I contacted the professor about working in their lab on campus, called the Clean Energy Transformation Lab (CETlab). I was brought in to do some data visualization work on an existing research paper about enabling a low-carbon electricity system for Southern Africa. More specifically, I was tasked with refactoring plot generation code into Python, along with presenting these newly generated plots on the lab’s website. I designed an website was developed in python primarily using  dash plotly.\n\n  External link to site    Repository"
   },
   {
     "objectID": "lecture.html",
@@ -19,12 +33,5 @@
     "title": "Guest Lecture",
     "section": "",
     "text": "Background\nIn the Fall of 2024, I was a Teaching Assistant for Environmental Studies 40: Critical Thinking and Evidence-Based Reasoning for the Environment at UC Santa Barbara. The course itself was aimed at equipping new college students with a wide array of skills that could be leveraged throughout their time at university and beyond as they navigate coursework, projects, and research.\nI was provided the opportunity to design and present a guest lecture about work I had been doing as a graduate student, which I was truly excited about. My goal for this lecture was to provide students with a basic introduction to data science concepts using an example pulled from environmental applications. This felt feasible given the scope of the hour long class period I was allotted and knowing that some students may be completely unfamiliar with the topic. I decided that I would use a simplified example of some data processing that I had finished the summer prior for my Masters Group Project, which was centered around assessing power outage risk across the United States. I presented to about 100 students on October 24th, 2024.\n\n\nSlide Deck"
-  },
-  {
-    "objectID": "lecture.html#background",
-    "href": "lecture.html#background",
-    "title": "Guest Lecture",
-    "section": "",
-    "text": "In the Fall of 2024, I was a Teaching Assistant for Environmental Studies 40: Critical Thinking and Evidence-Based Reasoning for the Environment at UC Santa Barbara. I was given the opportunity to design and present a guest lecture about my work as a graduate student. For the scope of the class, I decided that providing students with a basic introduction to data science concepts with some applications in the environmental field would be the most worthwhile. Below is the presentation in its entirety, using the example of power outage in the United States to lead students through a simplified example that introduces some key concepts."
   }
 ]

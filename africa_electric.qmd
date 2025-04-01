@@ -1,0 +1,31 @@
+---
+title: "Low-Carbon Electricity for Southern Africa"
+editor: source
+toc: false
+---
+
+<h3> Background </h3>
+<p> In the Winter of 2023 I was enrolled in a course at UCSB about energy and the environment. I contacted the professor about working in their lab on campus, called the Clean Energy Transformation Lab (CETlab). I was brought in to do some data visualization work on an <a href="https://www.sciencedirect.com/science/article/pii/S254243512200304X">existing research paper</a> about enabling a low-carbon electricity system for Southern Africa. More specifically, I was tasked with refactoring plot generation code into Python, along with presenting these newly generated plots on the lab's website. I designed an  website was developed in python primarily using <a href="https://dash.plotly.com/"> dash plotly</a>.
+
+---
+
+<a href="https://cetlab.es.ucsb.edu/projects/optimal-energy-pathways" class="btn btn-secondary">
+  <i class="bi bi-link-45deg"></i> External link to site
+</a>
+<a href="https://github.com/henrystrecker/Dash-CETLab/tree/main" class="btn btn-secondary">
+  <i class="bi bi-github"></i> Repository
+</a>
+<br>
+
+<div style="max-width: 1400px; overflow-x: false; display: flex; justify-content: center;">
+  <iframe 
+    src="https://cetlabdash.pythonanywhere.com/" 
+    width="1400px" 
+    height="800px" 
+    style="scale: 100%; 
+           box-shadow: 5px 5px 15px rgba(0,0,0,0.2); 
+           border-radius: 5px; 
+           border: 4px solid #808080;"> 
+  </iframe>
+</div>
+---

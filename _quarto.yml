@@ -1,4 +1,6 @@
 project:
+  resources: 
+    - media/resume_temp.pdf # will need to be changed later
   type: website
   output-dir: docs
 
@@ -8,9 +10,17 @@ website:
     left:
       - href: index.qmd
         icon: house-fill
-        text: Home
-      - about.qmd
-      - lecture.qmd
+        text: "Home"
+      - text: "Projects"
+        menu: 
+          - text: "Guest Lecture - Environmental Data Science"
+            href: lecture.qmd
+          - text: "Low-Carbon Electricity for Southern Africa"
+            href: africa_electric.qmd
+          - text: "Nitrates in California Groundwater Wells"
+            href: nitrate.qmd
+      - text: "About"
+        href: about.qmd
 
 format:
   html:

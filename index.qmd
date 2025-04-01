@@ -21,4 +21,4 @@ about:
       href: mailto:henrystrecker@bren.ucsb.edu
 ---
 
-This is a preview of what is yet to come. Here I will be posting projects I have worked on over the years, ranging from personal projects, class projects, and work projects.
+This site is currently under construction! Check back in future weeks as more of my work is added to this site.
