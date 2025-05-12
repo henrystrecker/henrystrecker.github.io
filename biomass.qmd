@@ -1,0 +1,16 @@
+---
+title: "Biomass Downscaling Research"
+editor: source
+toc: false
+---
+
+### Background 
+
+From January to July of 2024, I worked alongside researchers at the <a href="https://www.wri.org/"> World Resources Institute (WRI)</a> and <a href="https://www.evolved.energy/"> Evolved Energy Research</a> to conduct analyses surrounding the future of biomass across America. On May 1st, 2025 this work was published as a <a href="https://www.wri.org/research/biomass-and-land-use-decarbonizing-us-economy"> working paper</a>! My specific role in this project was to downscale biomass projections so that the demand, conducted at the regional level, could be matched to projected supply at the county level. This process is detailed further in Appendix G of the report, located on page 29.
+
+---
+
+<br>
+
+<iframe src="media/biomass_working_paper.pdf" width="100%" height="650px" style="border: 2px solid #ddd; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); border-radius: 10px;"> </iframe>
+---

@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "nitrate.html",
-    "href": "nitrate.html",
-    "title": "California Nitrate Website",
+    "objectID": "solstice_health.html",
+    "href": "solstice_health.html",
+    "title": "Solstice Health - Masters Thesis Project",
     "section": "",
-    "text": "Background\n\n\nIn the Fall of 2022 I took a course about water supply and demand, and decided to explore the concept of nitrate pollution as a project for the honors program. What came out of it was this dashboard that details nitrate pollution in groundwater wells throughout California. This data come from the United States Geological Survey, and was last updated in October 2022. The website was developed in python primarily using  dash plotly.\n\n  External link to site"
+    "text": "Background\nThis is my master’s thesis project from my time in graduate school, titled  Supporting Equitable Healthcare Through Solar Energy Asessment Tools , codename Solstice Health. This project was completed in coordination with our client,  Collective Energy , a company focused on social benefit through managing and facilitating the installation of solar panels and battery storage at Federally Qualified Health Centers (FQHCs) throughout the United States. FQHCs are federally funded health clinics that often support marginalized and underprivileged populations. As such, they face consider vulnerabilities, especially during natural disasters and power outage events. Our team’s objective in taking on this project was to create all-encompassing tools that relayed various data like clinic information, power outage risk, social indicators, financial analyses, and more in order to provide this information to clinics and our client. This information would inform clinics of how their site could address the risks they face through renewable energy, and allow our client to compare all 12,000+ sites across the country and seek out locations where their work could have the biggest impact.\nAs data manager for this project, I was in charge of defining the scope of work for the year, ensuring that the seemingly disparate data we set out on collecting could all be linked together within the year-long timeline we were constrained by. I was also in charge of design of the two applications we ended up creating using  R Shiny . One tool is external-facing to provide clinics with information regarding their site, whereas the other is internal-facing to provide our client with a project prioritization tool. While these products are not currently available to the public, our team presented a short demo of each tool during the Bren School Master’s Project Showcase, linked below, and they are documented in Section 6 of our final report below.\nMy three favorite components of this project were seeing the full life cycle of a product’s development, working with  Google’s SolarAPI , and designing/building the final dashboards. I have some prior experience with digital product development, but had never seen a project from its inception through to completion. It was a great experience to get feedback from our client throughout the process and act as a consultant, facing complex questions, needing to make critical decisions about the direction of work, all while keeping project goals front of mind. Generating solar power production estimates for over ten thousand sites was a daunting component of this project, but working with SolarAPI was a clear solution to achieving this. There were many hurdles that came with trying to generalize a methodology for all health clinics that vary widely. In the end, our team utilized existing screenings that Collective Energy had completed as validation data to calibrate the results we were getting from SolarAPI. This process required a lot of iteration, but was really satisfying to finally nail and produce accurate results for thousands of locations. The final step of this project was putting all of our work together into a digital tool that could be leveraged by our client and the clinics they serve. It was a great thought experiment to step into the mind of these two parties and envision what would be the most useful for their needs. We had envisioned a general design of the tool in months prior, which ended up matching the final result quite closely. Seeing the culmination of our year of hard work into these final products was exciting, and the ecstatic reactions from our client were extremely validating.\nThe final report is attached below in its entirety, as well as some additional resources related to this project!\n   Link to Project     Link to Presentation     Executive Summary"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Henry Strecker",
+    "objectID": "lecture.html",
+    "href": "lecture.html",
+    "title": "Guest Lecture",
     "section": "",
-    "text": "This site is currently under construction! Check back in future weeks as more of my work is added to this site."
+    "text": "Background\nIn the Fall of 2024, I was a Teaching Assistant for Environmental Studies 40: Critical Thinking and Evidence-Based Reasoning for the Environment at UC Santa Barbara. The course itself was aimed at equipping new college students with a wide array of skills that could be leveraged throughout their time at university and beyond as they navigate coursework, projects, and research.\nI was provided the opportunity to design and present a guest lecture about work I had been doing as a graduate student, which I was truly excited about. My goal for this lecture was to provide students with a basic introduction to data science concepts using an example pulled from environmental applications. This felt feasible given the scope of the hour long class period I was allotted and knowing that some students may be completely unfamiliar with the topic. I decided that I would use a simplified example of some data processing that I had finished the summer prior for my Masters Group Project, which was centered around assessing power outage risk across the United States. I presented to about 100 students on October 24th, 2024.\n\n\nSlide Deck"
+  },
+  {
+    "objectID": "freight.html",
+    "href": "freight.html",
+    "title": "Energy Demand Analysis",
+    "section": "",
+    "text": "This report is one of my favorite projects I have completed in any course to date. In this course called Energy Demand Analysis, groups were split up to try and develop lowest emission scenarios for our calculated future projections of energy needs for a sector with high energy consumption. My team was tasked with looking at freight transportation in the United States. I spent a lot of time looking at converting short haul aviation to be all-electric, as well as shifting water fleets over to use ammonia as fuel. My colleagues devised strategies to increase rail capacity, as that is the most efficient transportation method, as well as reducing trucking miles and emissions through the adoption of hydrgoen."
+  },
+  {
+    "objectID": "africa_electric.html",
+    "href": "africa_electric.html",
+    "title": "Low-Carbon Electricity for Southern Africa",
+    "section": "",
+    "text": "Background\nIn the Winter of 2023 I was enrolled in a course at UCSB about energy and the environment. I contacted the professor about working in their lab on campus, called the Clean Energy Transformation Lab (CETlab). I was brought in to do some data visualization work on an existing research paper about enabling a low-carbon electricity system for Southern Africa. More specifically, I was tasked with refactoring plot generation code into Python, along with presenting these newly generated plots on the lab’s website. I designed an website was developed in python primarily using  dash plotly.\n\n  External link to site    Repository"
   },
   {
     "objectID": "about.html",
@@ -21,17 +35,24 @@
     "text": "About this site"
   },
   {
-    "objectID": "africa_electric.html",
-    "href": "africa_electric.html",
-    "title": "Low-Carbon Electricity for Southern Africa",
+    "objectID": "biomass.html",
+    "href": "biomass.html",
+    "title": "Biomass Downscaling Research",
     "section": "",
-    "text": "Background\n\n\nIn the Winter of 2023 I was enrolled in a course at UCSB about energy and the environment. I contacted the professor about working in their lab on campus, called the Clean Energy Transformation Lab (CETlab). I was brought in to do some data visualization work on an existing research paper about enabling a low-carbon electricity system for Southern Africa. More specifically, I was tasked with refactoring plot generation code into Python, along with presenting these newly generated plots on the lab’s website. I designed an website was developed in python primarily using  dash plotly.\n\n  External link to site    Repository"
+    "text": "Background\nFrom January to July of 2024, I worked alongside researchers at the  World Resources Institute (WRI) and  Evolved Energy Research to conduct analyses surrounding the future of biomass across America. On May 1st, 2025 this work was published as a  working paper! My specific role in this project was to downscale biomass projections so that the demand, conducted at the regional level, could be matched to projected supply at the county level. This process is detailed further in Appendix G of the report, located on page 29."
   },
   {
-    "objectID": "lecture.html",
-    "href": "lecture.html",
-    "title": "Guest Lecture",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Henry Strecker",
     "section": "",
-    "text": "Background\nIn the Fall of 2024, I was a Teaching Assistant for Environmental Studies 40: Critical Thinking and Evidence-Based Reasoning for the Environment at UC Santa Barbara. The course itself was aimed at equipping new college students with a wide array of skills that could be leveraged throughout their time at university and beyond as they navigate coursework, projects, and research.\nI was provided the opportunity to design and present a guest lecture about work I had been doing as a graduate student, which I was truly excited about. My goal for this lecture was to provide students with a basic introduction to data science concepts using an example pulled from environmental applications. This felt feasible given the scope of the hour long class period I was allotted and knowing that some students may be completely unfamiliar with the topic. I decided that I would use a simplified example of some data processing that I had finished the summer prior for my Masters Group Project, which was centered around assessing power outage risk across the United States. I presented to about 100 students on October 24th, 2024.\n\n\nSlide Deck"
+    "text": "About Me\nHello! I’m Henry, a data scientist by training who is currently wrapping up my masters degree at the Bren School of Environmental Science & Management at UC Santa Barbara. In my time at Bren, I have specialized in the topic of energy and climate, and am seeking to leverage my existing skills as a data scientist to pursue work that promotes the clean energy transition and decarbonization.\n\n\n Education\n\n\n\nMaster of Environmental Science and Management\nUniversity of California, Santa Barbara — Expected June 2025\nSpecialization in Energy & Climate\nRelevant coursework: Energy Economics and Markets, Energy Demand Analysis, GIS, Environmental Modeling, Carbon Accounting, Cost-Benefit Analysis, Climate Change Impacts\nGPA: 3.92\n\n\n \n\n\n\n\n\nBachelor of Science in Statistics and Data Science\nUniversity of California, Santa Barbara — March 2023\nCollege of Letters and Science Honors Program Member\nRelevant coursework: Data Science, Machine Learning, Stochastic Processes, Probability and Statistics Theory, Regression Analysis, Linear Algebra, Time Series\nGPA: 3.82\n\n\n \n\n\n\n\n Experience\nOver the past 5 years I have held a number of various positions, all of which are outlined in my resume (linked above). This work has ranged from internships and research to teaching and passion projects. The more technical side of my work has always been centered around conducting data analysis and synthesizing results. I’ve worked both in academic and professional settings over the years, and have been able to hone my skills surrounding analytics while strengthening my knowledge of various systems that impact our world. Much of my work has been location-dependent, whether it’s strategic expansion for restaurants, renewable technologies, or biomass growth, location matters greatly!  I have been a teaching assistant for a wide range of courses at UCSB, including data science, critical thinking, statistics, calculus, and energy systems. Through these experiences I’ve improved my ability to convey complex topics in a clear and concise manner that others can grasp more easily. This has greatly benefited my science communication skills, and even led to an opportunity to guest lecture about data science in environmental studies.  The largest project I have completed over the past five years would be my master’s thesis project, where I served as the role of data manager. The project focused on energy resilience of Federally Qualified Health Centers (FQHCs) in the US through solar and battery storage technologies. Follow the hyperlink or explore the Projects dropdown at the top of the page to learn more about my work!"
+  },
+  {
+    "objectID": "nitrate.html",
+    "href": "nitrate.html",
+    "title": "California Nitrate Website",
+    "section": "",
+    "text": "Background\nIn the Fall of 2022 I took a course about water supply and demand, and decided to explore the concept of nitrate pollution as a project for the honors program. What came out of it was this dashboard that details nitrate pollution in groundwater wells throughout California. This data come from the United States Geological Survey, and was last updated in October 2022. The website was developed in python primarily using  dash plotly.\n\n  External link to site"
   }
 ]

@@ -1,0 +1,13 @@
+---
+title: "Energy Demand Analysis"
+editor: source
+toc: false
+---
+
+This report is one of my favorite projects I have completed in any course to date. In this course called *Energy Demand Analysis*, groups were split up to try and develop lowest emission scenarios for our calculated future projections of energy needs for a sector with high energy consumption. My team was tasked with looking at freight transportation in the United States. I spent a lot of time looking at converting short haul aviation to be all-electric, as well as shifting water fleets over to use ammonia as fuel. My colleagues devised strategies to increase rail capacity, as that is the most efficient transportation method, as well as reducing trucking miles and emissions through the adoption of hydrgoen.
+
+
+---
+
+<iframe src="media/freight_report.pdf" width="100%" height="1100px" style="border: 2px solid #ddd; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); border-radius: 10px;"> </iframe>
+---
