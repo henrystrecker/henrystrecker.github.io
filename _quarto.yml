@@ -13,17 +13,17 @@ website:
         text: "Home"
       - text: "Projects"
         menu: 
-          - text: "Research - Biomass Downscaling for WRI"
+          - text: "Research: Biomass and Land Use in a Decarbonizing US"
             href: biomass.qmd
-          - text: "Masters Thesis - Solstice Health"
+          - text: "Masters Thesis: Solstice Health"
             href: solstice_health.qmd
-          - text: "Guest Lecture - Environmental Data Science"
+          - text: "Guest Lecture: Environmental Data Science"
             href: lecture.qmd
-          - text: "Low-Carbon Electricity for Southern Africa"
+          - text: "Dashboard: Low-Carbon Electricity for Southern Africa"
             href: africa_electric.qmd
-          - text: "Nitrates in California Groundwater Wells"
+          - text: "Dashboard: Nitrates in California Groundwater Wells"
             href: nitrate.qmd
-          - text: "Reducing Emissions from Freight Transportation"
+          - text: "Energy Demand Analysis: Freight Transport"
             href: freight.qmd
 
 format:

@@ -37,7 +37,7 @@ Relevant coursework: Energy Economics and Markets, Energy Demand Analysis, GIS, 
 **GPA:** 3.92
 
 :::
-::: {.column width="20%"}
+::: {.column width="20%" .text-center}
 
 <br><br>
 [![](media/bren_leaf.png){width=120px}](http://bren.ucsb.edu/)
@@ -55,7 +55,7 @@ Relevant coursework: Data Science, Machine Learning, Stochastic Processes, Proba
 **GPA:** 3.82
 
 :::
-::: {.column width="20%"}
+::: {.column width="20%" .text-center}
 
 <br><br>
 [![](media/ucsb_wave.png){width=180px}](https://www.pstat.ucsb.edu/)
@@ -68,11 +68,9 @@ Relevant coursework: Data Science, Machine Learning, Stochastic Processes, Proba
 # <i class="bi bi-briefcase-fill"></i>  Experience
 
 Over the past 5 years I have held a number of various positions, all of which are outlined in my resume (linked above). This work has ranged from internships and research to teaching and passion projects. The more technical side of my work has always been centered around conducting data analysis and synthesizing results. I've worked both in academic and professional settings over the years, and have been able to hone my skills surrounding analytics while strengthening my knowledge of various systems that impact our world. Much of my work has been location-dependent, whether it's strategic expansion for restaurants, renewable technologies, or biomass growth, location matters greatly! 
-<br>
+<br><br>
 I have been a teaching assistant for a wide range of courses at UCSB, including data science, critical thinking, statistics, calculus, and energy systems. Through these experiences I've improved my ability to convey complex topics in a clear and concise manner that others can grasp more easily. This has greatly benefited my science communication skills, and even led to an opportunity to guest lecture about data science in environmental studies.
-<br>
-The largest project I have completed over the past five years would be my master's thesis project, where I served as the role of data manager. The project focused on energy resilience of Federally Qualified Health Centers (FQHCs) in the US through solar and battery storage technologies. Follow the hyperlink or explore the **Projects** dropdown at the top of the page to learn more about my work!
-
-
+<br><br>
+The largest project I have completed over the past five years would be my <a href = "https://henrystrecker.github.io/solstice_health.html"> master's thesis project</a>, where I served as the role of data manager. The project focused on energy resilience of Federally Qualified Health Centers (FQHCs) in the US through solar and battery storage technologies. Follow the hyperlink or explore the **Projects** dropdown at the top of the page to learn more about my work!
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Solstice Health - Masters Thesis Project"
+title: "Solstice Health - Master's Thesis Project"
 editor: source
 toc: false
 ---
@@ -7,13 +7,28 @@ toc: false
 ### Background 
 
 
-This is my master's thesis project from my time in graduate school, titled <a href= "https://bren.ucsb.edu/projects/supporting-equitable-healthcare-through-solar-energy-assessment-tools"> Supporting Equitable Healthcare Through Solar Energy Asessment Tools </a>, codename Solstice Health. This project was completed in coordination with our client, <a href="https://collectiveenergyco.com/"> Collective Energy </a>, a company focused on social benefit through managing and facilitating the installation of solar panels and battery storage at Federally Qualified Health Centers (FQHCs) throughout the United States. FQHCs are federally funded health clinics that often support marginalized and underprivileged populations. As such, they face consider vulnerabilities, especially during natural disasters and power outage events. Our team's objective in taking on this project was to create all-encompassing tools that relayed various data like clinic information, power outage risk, social indicators, financial analyses, and more in order to provide this information to clinics and our client. This information would inform clinics of how their site could address the risks they face through renewable energy, and allow our client to compare all 12,000+ sites across the country and seek out locations where their work could have the biggest impact.
+My master's thesis project from my time in graduate school is titled <a href= "https://bren.ucsb.edu/projects/supporting-equitable-healthcare-through-solar-energy-assessment-tools"> Supporting Equitable Healthcare Through Solar Energy Assessment Tools </a>, codename Solstice Health. This project was completed in coordination with our client, <a href="https://collectiveenergyco.com/"> Collective Energy </a>, a company focused on social benefit through managing and facilitating the installation of solar panels and battery storage at Federally Qualified Health Centers (FQHCs) throughout the United States. FQHCs are federally funded health clinics that often support marginalized and underprivileged populations. As such, they face consider vulnerabilities, especially during natural disasters and power outage events. Our team's objective in taking on this project was to create all-encompassing tools that relayed various data like clinic information, power outage risk, social indicators, financial analyses, and more in order to provide this information to clinics and our client. This information would inform clinics of how their site could address the risks they face through renewable energy, and allow our client to compare all 12,000+ sites across the country and seek out locations where their work could have the biggest impact.
 
 As data manager for this project, I was in charge of defining the scope of work for the year, ensuring that the seemingly disparate data we set out on collecting could all be linked together within the year-long timeline we were constrained by. I was also in charge of design of the two applications we ended up creating using <a href = "https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/"> R Shiny </a>. One tool is external-facing to provide clinics with information regarding their site, whereas the other is internal-facing to provide our client with a project prioritization tool. While these products are not currently available to the public, our team presented a short demo of each tool during the Bren School Master's Project Showcase, linked below, and they are documented in Section 6 of our final report below.
 
 My three favorite components of this project were seeing the full life cycle of a product's development, working with <a href = "https://developers.google.com/maps/documentation/solar/overview"> Google's SolarAPI </a>, and designing/building the final dashboards. I have some prior experience with digital product development, but had never seen a project from its inception through to completion. It was a great experience to get feedback from our client throughout the process and act as a consultant, facing complex questions, needing to make critical decisions about the direction of work, all while keeping project goals front of mind. Generating solar power production estimates for over ten thousand sites was a daunting component of this project, but working with SolarAPI was a clear solution to achieving this. There were many hurdles that came with trying to generalize a methodology for all health clinics that vary widely. In the end, our team utilized existing screenings that Collective Energy had completed as validation data to calibrate the results we were getting from SolarAPI. This process required a lot of iteration, but was really satisfying to finally nail and produce accurate results for thousands of locations. The final step of this project was putting all of our work together into a digital tool that could be leveraged by our client and the clinics they serve. It was a great thought experiment to step into the mind of these two parties and envision what would be the most useful for their needs. We had envisioned a general design of the tool in months prior, which ended up matching the final result quite closely. Seeing the culmination of our year of hard work into these final products was exciting, and the ecstatic reactions from our client were extremely validating.
 
 The final report is attached below in its entirety, as well as some additional resources related to this project!
+
+::: {.columns}
+::: {.column width="50%" .text-center}
+
+[![](media/sh_publics_group.jpg){height=250px .rounded .shadow .border}](https://bren.ucsb.edu/events/2025-masters-project-presentations)
+
+:::
+::: {.column width="50%" .text-center}
+
+[![](media/sh_presenting.jpg){height=250px .rounded .shadow .border}](https://www.linkedin.com/posts/brenucsb_brenschool-mesm25-sustainabilityleadership-activity-7297759303287853057-9uoV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtLUusBUjqrRs-YGzdhnYTMFSb9OCq1bNk)
+
+:::
+:::
+
+
 
 <a href="https://bren.ucsb.edu/projects/supporting-equitable-healthcare-through-solar-energy-assessment-tools" class="btn btn-secondary">
   <i class="bi bi-globe-americas"></i>&nbsp; Link to Project

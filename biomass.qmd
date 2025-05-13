@@ -6,11 +6,13 @@ toc: false
 
 ### Background 
 
-From January to July of 2024, I worked alongside researchers at the <a href="https://www.wri.org/"> World Resources Institute (WRI)</a> and <a href="https://www.evolved.energy/"> Evolved Energy Research</a> to conduct analyses surrounding the future of biomass across America. On May 1st, 2025 this work was published as a <a href="https://www.wri.org/research/biomass-and-land-use-decarbonizing-us-economy"> working paper</a>! My specific role in this project was to downscale biomass projections so that the demand, conducted at the regional level, could be matched to projected supply at the county level. This process is detailed further in Appendix G of the report, located on page 29.
+From January to July of 2024, I worked alongside researchers at the <a href="https://www.wri.org/"> World Resources Institute (WRI)</a> and <a href="https://www.evolved.energy/"> Evolved Energy Research</a> to conduct analyses surrounding the future of biomass across America. On May 1st, 2025 this work was published as a <a href="https://www.wri.org/research/biomass-and-land-use-decarbonizing-us-economy"> working paper</a> that details the intricacies of this topic. As our population grows and demands more of our planet, we must ensure that lands are being utilized for the most efficient and high-value end uses. Biomass can undoubtedly have a considerable role in decarbonization, but only in the right contexts. Our lands are finite and sequester substantial amounts of carbon as they stand, so converting lands for the goal of producing biofuels that ultimately end up in our atmosphere would be a net negative. Instead, we should be focusing on the use of biomass for longevity; Creating lasting products that can replace petrochemicals, not creating products for combustion.
+
+<br>
+My specific role in this project was to downscale biomass projections so that the demand, conducted at the regional level, could be matched with the projected supply at the county level. This process is detailed further in Appendix G of the report, located on page 29. The results of this downscaling are visually conveyed in the maps of Figure 4, located on page 15.
 
 ---
 
 <br>
-
 <iframe src="media/biomass_working_paper.pdf" width="100%" height="650px" style="border: 2px solid #ddd; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); border-radius: 10px;"> </iframe>
 ---
