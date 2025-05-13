@@ -9,14 +9,14 @@ In the Fall of 2022 I took a course about water supply and demand, and decided t
 
 ---
 
-<a href="http://henrystrecker.pythonanywhere.com/" class="btn btn-secondary">
+<a href="https://henrystrecker.pythonanywhere.com/" class="btn btn-secondary">
   <i class="bi bi-link-45deg"></i> External link to site
 </a>
 <br>
 
 <div style="max-width: 1400px; overflow-x: false; display: flex; justify-content: center;">
   <iframe 
-    src="http://henrystrecker.pythonanywhere.com/" 
+    src="https://henrystrecker.pythonanywhere.com/" 
     width="1400px" 
     height="800px" 
     style="scale: 100%; 
